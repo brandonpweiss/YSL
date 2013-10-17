@@ -260,6 +260,25 @@
 			</div>
 		</div>
 	</div>
+	<div class="spacertwo"></div>
+	<div class="testingservices">
+		<h2>Testing Services</h2>
+		<div class="option">
+			<div class="title">V02 Max Testing</div>
+			<div class="price">$125</div>
+			<p>The first test you should do before starting an exercise program. It provides a starting point for gauging changes in your fitness level. This test also allows you to set accurate heart rate training zones as well as determine your aerobic efficiency. <a href="#">SIGN UP NOW ></a></p>
+		</div>
+		<div class="option">
+			<div class="title">Blood Lactate Threshold Testing</div>
+			<div class="price">$125</div>
+			<p>Lactate threshold can change dramatically throughout the year. As the season advances, so does your ability to tolerate the byproducts produced by your body during exercise. For an athlete looking to improve performance, this is the most important physiological test you can take. <a href="#">SIGN UP NOW ></a></p>
+		</div>
+		<div class="option">
+			<div class="title">Body Composition Analysis</div>
+			<div class="price">TBD</div>
+			<p>he first test you should do before starting an exercise program. It provides a starting point for gauging changes in your fitness level. This test also allows you to set accurate heart rate training zones as well as determine your aerobic efficiency.  <a href="#">SIGN UP NOW ></a></p>
+		</div>
+	</div>
 	</div>
 </section>
 <a name="store" class="marker"></a>

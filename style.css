@@ -714,6 +714,51 @@ section#servicestwo .column .inner a.getstarted{
 section#servicestwo .column .inner a.getstarted:hover{
 	color: #000000;
 }
+
+
+.spacertwo{
+	clear:both;
+}
+
+.testingservices{
+	display:block;
+	margin: 10px 10px 0px 10px;
+	clear:both;
+	background: #ffffff;
+}
+.testingservices h2{
+	font-family: LGR;
+	font-size: 40px;
+	letter-spacing: 3px;
+	color: #67cccc;
+	margin-left: 20px;
+	padding: 20px 0px 20px 0px;
+}
+.testingservices .option:nth-child(even){
+	background: #eeeeee;
+}
+.testingservices .option{
+	padding: 40px 20px 40px 20px;
+}
+.testingservices .option .title, .testingservices .option .price{
+	font-family: karbonsemibold;
+	font-size: 15px;
+	display:inline-block;
+}
+.testingservices .option .title{
+	margin-right: 10px;
+}
+.testingservices .option .price{
+	color: #67cccc;
+}
+.testingservices .option p{
+	font-family: karbonregular;
+}
+.testingservices .option p a{
+	font-family: karbonsemibold;
+	text-decoration: none;
+	color: #ff00ff;
+}
 /*end services 2*/
 
 
