@@ -184,25 +184,7 @@
 <a name="servicestwo" class="marker"></a>
 <section id="servicestwo">
 	<div class="content clearfix">
-	<div class="column">
-		<div class="inner">
-			<div class="title">TOTAL FITNESS PACKAGE</div>
-			<div class="info">
-				<h1>FOR THE BEGINNER</h1>
-				<p>Want to get in shape, but don't know exactly where to begin? YOUR STARTING LINE is here to guide you in the right direction. We will be with you from the start, and help guide your journey as you get in the best shape of your life. We will help you define and reach personal workout goals, and provide the support when you need it to keep going. here are some of the support tools that we will provide with this package:</p>
-				<ul>
-					<li>Fitness Assessment and Analysis</li>
-					<li>Weekly Plan Outline</li>
-					<li>Goal Definition</li>
-					<li>Independent Workout Discussions</li>
-				</ul>
-			</div>
-			<div class="signup">
-				<h2>1 Hour / $50</h2>
-				<a href="#" class="button">SIGN UP NOW ></a>
-			</div>
-		</div>
-	</div>
+	
 	<div class="column">
 		<div class="inner">
 			<div class="title">RUN TRAINING</div>
@@ -222,7 +204,26 @@
 			</div>
 		</div>
 	</div>
-	<div class="column standout">
+	<div class="column special">
+		<div class="inner">
+			<div class="title">TOTAL FITNESS PACKAGE</div>
+			<div class="info">
+				<h1>FOR THE BEGINNER</h1>
+				<p>Want to get in shape, but don't know exactly where to begin? YOUR STARTING LINE is here to guide you in the right direction. We will be with you from the start, and help guide your journey as you get in the best shape of your life. We will help you define and reach personal workout goals, and provide the support when you need it to keep going. here are some of the support tools that we will provide with this package:</p>
+				<ul>
+					<li>Fitness Assessment and Analysis</li>
+					<li>Weekly Plan Outline</li>
+					<li>Goal Definition</li>
+					<li>Independent Workout Discussions</li>
+				</ul>
+			</div>
+			<div class="signup">
+				<h2>1 Hour / $50</h2>
+				<a href="#" class="button">SIGN UP NOW ></a>
+			</div>
+		</div>
+	</div>
+	<div class="column">
 		<div class="inner">
 			<div class="title">TRIATHALON TRAINING</div>
 			<div class="info">
@@ -350,7 +351,8 @@
 <script src="jquery.flexslider.js"></script>
 <script src="flexslider.js"></script>
 <script>$('.instagram').instagram({
-  userId: 18664684,
+  /*userId: 18664684,*/
+  hash: 'philly',
   accessToken: '18664684.40fdb3c.20f2b027bbb84b5b8f2c06e7b18acc7f',
   show: '32'
 });
